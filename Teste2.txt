@@ -1,1 +1,3 @@
-agora é complementendo o teste dois manoooooow!!!!
+agora Ã© complementendo o teste dois manoooooow!!!!
+
+Linha adicionada no GIT para teste commit.
